@@ -1,0 +1,4 @@
+Kare,Dikdörgen sınıflarında oluşacak bir geometri programı yapılmak isteniyor. bunların ayrı ayrı, fakat ortak metodlarının
+cevres,() ve alanı() zorunlu olabilmesi için gerekli yapıyı kurunuz ve yazınız.
+
+2 nesne için de mainde değer vererek sonuçlarını yazdırnız.

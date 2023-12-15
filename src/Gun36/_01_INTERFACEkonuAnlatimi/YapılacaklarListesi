@@ -1,0 +1,16 @@
+HepsiBurada : için yap yarın öbürgün trendyol gelirse aynısı yapılacak
+1- kullanıcılardan bilgileri al       bilgileriAl()
+2-kredi skorunu kontrolet             KrediSkorunuKontrolEt()
+3- kredi seçeneklerini göster         KrediSecenekleriniGoster()
+4-Belgeleri imzalat                   BelgeleriIMzalat()
+5-Krediyi kullandır                   KrediyiKullandır()
+6-Kredi skorunu göster                KrediSkorunuGoster()
+
+
+TrendYOl
+1- kullanıcılardan bilgileri al       bilgileriAl()
+2-kredi skorunu kontrolet             KrediSkorunuKontrolEt()
+3- kredi seçeneklerini göster         KrediSecenekleriniGoster()
+4-Belgeleri imzalat                   BelgeleriIMzalat()
+5-Krediyi kullandır                   KrediyiKullandır()
+6-Kredi skorunu göster                KrediSkorunuGoster()

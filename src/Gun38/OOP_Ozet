@@ -1,0 +1,35 @@
+OOP; 4 ana bölüm vardır, bazen polymorphism eklenerek 5 e çıkartılır.
+
+Encapsulation; (Kapsülleme) private , get , set doğru veri atama ve güvenlik sağlıyor.
+
+İnharitance: (Kalıtım)(Extend) bir çok classın ortak kısımları için bir parent class yazıp,
+ sonraki classları bu classdan türetilmesine Kalıtım denir.(dede-baba-torun) MİRAS anahtar kelime.
+
+PolyMorphism: (Çok Şekillilik): bir parent class veya ortak bir interface sahip classların ,
+ istenildiğinde kendi tipinde, istenildiğinde parent tipinde olabilmesine, böylece aynı metodların kullanılmasına imkan verir.(Kedi,Köpek,Tırmaladı Kokladı)
+
+İnterFace: (yazılım şablonu sağlar) birden fazla classın aynı şablondan metodlarını üretmesini ZORUNLU kılan ve böylece yazılım planlaması yöndetim.
+Sadece Metodların imzası yazılıyor, İmplenmete eden Classlar metodlarını içini dolduruyor.
+
+Abstract: bir tane interface ve birtane parent class olacaksa , interface+ parent class kullanmak yerine, her ikisini içine alan tek class tipidir.
+(İnterface+İnheritance==> Abstrack class) -->> 2 si bir arada.
+
+                Kaptanın SEYİR DEFTERİ:
+
+                salı : OOP soru çözümü
+                Çar  : DateTime 1
+                Per  : DateTime 2
+
+                Pazt : String,nesne,referans
+                Salı : Hata yönetimi
+                JAVA CORE bitiyor
+                Çar
+                Per
+
+                Pazt
+                Salı
+                Oracle Java sınavında çıkmış
+                sorular çözerek tekrar yapacağız
+                ----
+                Sonraki 4 gün kod Kod yönetimi
+                ---> Test işlemleri başlıyor

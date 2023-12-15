@@ -1,0 +1,9 @@
+1- Calisan isminde bi class tanımlayınız properties/fields(isim,maas(double),maasKatSayisi(dobule))
+2- constructor ve maashesapla metodu(Maas*maasKatSayisi) ekleyiniiz. to String ekle
+3- Genel müdür isimli bir classı Calisan Sınıfından türetip ve extra field olarak tazminat ekleyiniz.
+4- GenelMudur classında maasHesaplaya Tazminat ı da Ekleyiniz.
+5- SirketMain diye yazacağınız main in olduğu yerde , 1 calısan ve 1 genelmüdür tanımlayarak.
+6- maasları hesaplatıp , bodroyu yazdırnız.
+
+
+ esas maas=maas*maaskatsayisi+ tazminat

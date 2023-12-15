@@ -1,0 +1,6 @@
+bir oto galeri için araba programı yapılmak isteniyor.
+her arabanın arabaNı(İnt), marka(String) ve üretimyili(int) vardır.
+kullanıcıdan 20 tane araba için bilgileri alınız
+bütün arabaları bir metodda yazdırınız.
+galerinin üretim yılı ortalamasını yine bir metodda yazdırınız.
+gerekli Classlar için ayrı dosya açınız

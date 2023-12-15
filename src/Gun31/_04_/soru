@@ -1,0 +1,5 @@
+bir pizza sipariş hattı yapılmak isteniyor.
+kullanıcıya pizza için 1-small 2-Medium 3-Large 4-Goster
+seçeneklerini bir meni şeklinde verereki verdiği pizzaları
+bir arraylist e atınız.
+göster(4) ü seçtiğinde her pizzadan kaçar tane sipariş  verdiğini bir mettoda yazdırınız.

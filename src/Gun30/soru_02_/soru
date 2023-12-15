@@ -1,0 +1,4 @@
+// sabitleri isimli bir Classda sabit bir şekilde
+bir gündeki saat sayısı , bir saatdaki dakida sayısı
+ve bir dakikadaki saniye sayısını tanımlayınmız
+mainde kullanıcıdan gün saat dakika alarak toplam saniyeyi bulunuz.

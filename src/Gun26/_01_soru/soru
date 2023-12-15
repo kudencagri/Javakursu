@@ -1,0 +1,5 @@
+// bir kampüs programı için aşağıdaki özellikte bilgilerin
+// kaydedileceği classları yazınız
+//Ogrenci: okulNo, Adı, Soyadi, Okulu
+//okul: okulAd,MudurAd,OkulAdress
+//bu şekilde 1 öğrenci tanımlayıp bütün biligilerini kendiniz atayıp yazdırınız.

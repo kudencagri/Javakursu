@@ -1,0 +1,3 @@
+İnheritance : Classların ortak kısımların yazıldıgı yer
+vehicle : classlardaki ortak metodların sadece imzasının yazıldığı yer.
+ metodların zorunlu olarak yazdırıldıgı yer constractur get set falan

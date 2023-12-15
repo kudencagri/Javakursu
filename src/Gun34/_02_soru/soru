@@ -1,0 +1,5 @@
+1-Ogrenci isimli bir id , isim ve tipi (Enum ILK ORTA LISE) olan bir class oluşturunuz.
+2-LiseOgrencisi adında Ogrenci sınıfından bir sınıf üretiniz, field . brans String
+3-İlkOgrencisi adında Ogrenci sınıfından bir sınıf üretiniz. field: Klup string
+4- Okul isimli mainde 3 adet farklı tipte öğrenci oluşturunuz.
+5- oluştururken her öğrenciye ogrenci sınıfında tanımlanmış bir sayaçtan no veriniz

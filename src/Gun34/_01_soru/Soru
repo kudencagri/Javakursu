@@ -1,0 +1,5 @@
+1- Arac isimli bir superclass olusturunuz, field: renk MotorHacmi, marka olsun
+2- Consructor ekleyiniz. Get ve Set metodları ve to string metodu ekleyiniz.
+3- Bu sınıftan Otobus sınıfını üretiniz. otobusun ayrıca yolcuKapasitesi field ını ekleyiniz.
+4. bir AracPark isimli içinde main olan bir sınıf oluşturunuz ve Otobusten
+nesne oluşturarak, otobusun özelliklerinin tümünü ekrana yazdırnız.
